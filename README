@@ -1,0 +1,4 @@
+generic: http://nadeausoftware.com/articles/2011/12/c_c_tip_how_list_compiler_predefined_macros
+qcc: qcc -Wp,-dM -E somefile.c
+msvc: 
+https://github.com/qbs/qbs/blob/36f4b733001daf2127c1713fad8e82599ad75a91/src/lib/corelib/tools/msvcinfo.cpp#L160
